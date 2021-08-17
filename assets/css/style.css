@@ -1,0 +1,9 @@
+
+/* Classes style */
+.cursor { cursor: pointer; }
+.form-style { background-color: #8080800d; padding: 10px; border-radius: 5px;border: 1px solid #8080804a; }
+.messg { display: none;}
+.flo-right {float: right;}
+
+/* Id classes */
+#addCustomer { display: none; }
